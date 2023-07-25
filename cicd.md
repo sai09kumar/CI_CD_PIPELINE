@@ -229,9 +229,11 @@ Now let's build again the Jenkins and see the affect it puts in the live server
 ![Alt text](image-23.png)
 
 
-To avoid repeating again to build again and again we can just Pollscm for 2 minutes so that whenever code updated then automatically jenkins update the code 
+To avoid repeating again to build again and again we can just Pollscm for 2 minutes or according to time required so that whenever code updated then automatically jenkins update the code 
 
 
 ![Alt text](image-22.png)
 
 This is how we deploy a live website on server and manage. 
+
+Also we can edit the code in local git to edit and deploy.
